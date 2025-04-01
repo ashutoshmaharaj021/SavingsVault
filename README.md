@@ -31,6 +31,7 @@ This contract can be deployed on Ethereum-compatible networks using tools like R
 This project is open-source and available under the MIT License.
 
 # Contact Address
+0xC1A527331fAE1Bd644CB1604074E53ea963332c7
 
 ## Contract Deployment Details
 - **Contract Name:** SavingsVault
